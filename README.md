@@ -159,5 +159,5 @@ This project was developed starting from an initial architecture provided by my 
 
 ---
 
-“True understanding begins when complex ideas can be explained simply.”
+“True understanding begins when complex ideas can be explained simply ✨⚛️.”
 
