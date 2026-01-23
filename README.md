@@ -136,7 +136,7 @@ npm run dev
 Mouly Sikdar
 B.Tech Student | Full-Stack Developer | AI & Physics Enthusiast
 
-🔗 GitHub: https://github.com/Mouly19
+🔗 GitHub: [@Mouly19]( https://github.com/Mouly19)
 
 ---
 
