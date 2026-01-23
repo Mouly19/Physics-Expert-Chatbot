@@ -147,17 +147,8 @@ You are free to modify and extend it with proper attribution.
 
 ---
 
-### 📜 Credits
-
-This project was developed starting from an initial architecture provided by my instructor. I have significantly extended the project by:
-
-*Integrating the Google Gemini AI service layer.
-
-*Implementing a custom Physics Expert System Prompt.
-
-*Developing the React-based UI to interact with the Django API.
-
----
 
 “True understanding begins when complex ideas can be explained simply ✨⚛️.”
+
+
 
