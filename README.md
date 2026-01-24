@@ -1,4 +1,4 @@
-# 🌌 Physics Expert AI Chatbot
+# 🌌 🔭 Physics Expert AI Chatbot 👩‍🏫
 
 A **professional full-stack AI-powered web application** designed to deliver **rigorous, first-principles explanations of physics concepts**.
 The system is strictly **primed to behave like a physics professor**, refusing non-physics queries to maintain **academic integrity and domain focus**.
@@ -144,6 +144,7 @@ B.Tech Student | Full-Stack Developer | AI & Physics Enthusiast
 
 This project is intended for educational and research purposes.
 You are free to modify and extend it with proper attribution.
+
 
 ---
 
