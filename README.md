@@ -116,7 +116,7 @@ npm run dev
 
 ## 🎯 Use Cases
 
-* Conceptual understanding of physics topics
+* Conceptual understanding of physics topics.
 * Academic revision and learning
 * AI-assisted teaching tools
 * Educational and research-based projects
